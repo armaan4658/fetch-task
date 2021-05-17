@@ -1,0 +1,11 @@
+img{
+    border-radius: 50%;
+    border:5px double black;
+}
+.row>div{
+    display: grid;
+    justify-content: center;
+}
+p{
+    font-family: 'Amiri', serif;
+}
